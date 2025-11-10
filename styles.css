@@ -1,0 +1,16 @@
+body {
+  background-color: darkslategray;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: white;
+  font-size: 40px;
+}
+
+p {
+  color: darkorange;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  text-align: center;
+}
